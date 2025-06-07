@@ -147,7 +147,17 @@
 
 ### 📦 Hazır Kurulum Dosyaları
 
-> 🚀 **Hızlı İndirme:** [GitHub Releases](https://github.com/Wupani/gymdesk/releases) sayfasından **Setup dosyası.zip (369 MB)** indirin - Windows ve macOS kurulum dosyaları
+> 🚀 **Hızlı İndirme:** [GitHub Releases](https://github.com/Wupani/gymdesk/releases/latest) sayfasından **Setup dosyası.zip (369 MB)** indirin
+
+📋 **İçerik:**
+- 🪟 **Windows:** GymDesk Setup 1.0.0-Universal.exe (227 MB)
+- 🍎 **macOS:** GymDesk.app (464 MB)  
+- 🔒 **Hash:** SHA-256 doğrulanmış
+
+⏬ **Alternatif İndirme Linkleri:**
+- [GitHub Releases](https://github.com/Wupani/gymdesk/releases/latest) (Önerilen)
+- [Google Drive](https://drive.google.com) (Yedek link - yakında)
+- [MEGA](https://mega.nz) (Yedek link - yakında)
 
 #### 🍎 macOS Kurulumu
 
