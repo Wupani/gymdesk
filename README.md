@@ -147,26 +147,29 @@
 
 ### 📦 Hazır Kurulum Dosyaları
 
+> 🚀 **Hızlı İndirme:** [GitHub Releases](https://github.com/Wupani/gymdesk/releases) sayfasından **Setup dosyası.zip (369 MB)** indirin - Windows ve macOS kurulum dosyaları
+
 #### 🍎 macOS Kurulumu
 
 ```bash
-# Dosya konumu:
-dist/macOS-Release/GymDesk.app (464 MB)
-
-# Kurulum adımları:
-1. GymDesk.app dosyasını çift tıklayın
-2. Güvenlik uyarısı için onay verin
-3. Applications klasörüne taşıyın (opsiyonel)
+# İndirme ve Kurulum:
+1. Setup dosyası.zip'i indirin ve açın
+2. GymDesk.app dosyasını çift tıklayın
+3. Güvenlik uyarısı için onay verin
+4. Applications klasörüne taşıyın (opsiyonel)
 
 # Terminal komutları:
+# Zip dosyasını aç:
+unzip "Setup dosyası.zip"
+
 # Uygulamayı açma:
-open "dist/macOS-Release/GymDesk.app"
+open "GymDesk.app"
 
 # Güvenlik uyarısını çözme:
-xattr -rd com.apple.quarantine "dist/macOS-Release/GymDesk.app"
+xattr -rd com.apple.quarantine "GymDesk.app"
 
 # Applications'a kopyalama:
-cp -R "dist/macOS-Release/GymDesk.app" /Applications/
+cp -R "GymDesk.app" /Applications/
 ```
 
 **✅ Desteklenen Mimariler:**
@@ -178,15 +181,14 @@ cp -R "dist/macOS-Release/GymDesk.app" /Applications/
 #### 🪟 Windows Kurulumu
 
 ```powershell
-# Dosya konumu:
-dist/Windows-Release/GymDesk Setup 1.0.0-Universal.exe (227 MB)
-
-# Kurulum adımları:
-1. Setup dosyasına sağ tıklayın
-2. "Yönetici olarak çalıştır" seçin
-3. Türkçe kurulum sihirbazını takip edin
-4. Masaüstü kısayolu oluşturun
-5. Başlat menüsünden çalıştırın
+# İndirme ve Kurulum:
+1. Setup dosyası.zip'i indirin ve açın
+2. GymDesk Setup 1.0.0-Universal.exe dosyasını bulun (227 MB)
+3. Setup dosyasına sağ tıklayın
+4. "Yönetici olarak çalıştır" seçin
+5. Türkçe kurulum sihirbazını takip edin
+6. Masaüstü kısayolu oluşturun
+7. Başlat menüsünden çalıştırın
 
 # Kurulum detayları:
 # - Kurulum dizini: C:\Program Files\GymDesk\
@@ -239,12 +241,14 @@ Get-FileHash "GymDesk Setup 1.0.0-Universal.exe" -Algorithm SHA256
 ```
 
 **🔍 Tarama Sonuçları:**
-- ✅ **0/70 Antivirus** - Hiçbir motor zararlı yazılım algılamadı
+- ✅ **0/71 Antivirus** - Hiçbir motor zararlı yazılım algılamadı
 - ✅ **Windows Defender** - Temiz
-- ✅ **Kaspersky** - Temiz  
-- ✅ **Avast** - Temiz
-- ✅ **Bitdefender** - Temiz
-- ✅ **McAfee** - Temiz
+- ✅ **Bitdefender** - Temiz  
+- ✅ **Avira** - Temiz
+- ✅ **CrowdStrike** - Temiz
+- ✅ **ClamAV** - Temiz
+
+> ⚠️ **Önemli Not:** Bazı güvenlik servisleri Electron tabanlı self-extracting installer'ları "şüpheli" olarak işaretleyebilir. Bu **false positive** (yanlış alarm) durumudur ve tamamen normaldir. Major antivirüs motorları dosyayı temiz olarak değerlendirmektedir.
 
 #### 🍎 macOS App Güvenlik Raporları
 
