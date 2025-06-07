@@ -18,16 +18,16 @@
 
 ## 📖 İçindekiler
 
-- [Özellikler](#özellikler)
-- [Ekran Görüntüleri](#ekran-görüntüleri)
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
-- [Geliştirme](#geliştirme)
-- [Teknoloji Stack](#teknoloji-stack)
-- [Build ve Dağıtım](#build-ve-dağıtım)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
-- [Destek](#destek)
+- [Özellikler](#-özellikler)
+- [Ekran Görüntüleri](#️-ekran-görüntüleri)
+- [Kurulum](#-kurulum)
+- [Kullanım](#-kullanım)
+- [Geliştirme](#️-geliştirme)
+- [Teknoloji Stack](#-teknoloji-stack)
+- [Build ve Dağıtım](#-build-ve-dağıtım)
+- [Katkıda Bulunma](#-katkıda-bulunma)
+- [Lisans](#-lisans)
+- [Destek](#-destek)
 
 ---
 
@@ -832,7 +832,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ### 🐛 Hata Bildirimi
 
 **Hata bulduğunuzda:**
-1. [Issues sayfasını](https://github.com/[username]/gymdesk/issues) kontrol edin
+1. [Issues sayfasını](https://github.com/Wupani/gymdesk/issues) kontrol edin
 2. Benzer hata var mı araştırın
 3. Yeni issue oluştururken şu bilgileri ekleyin:
 
@@ -860,7 +860,7 @@ Varsa hata ekran görüntüsü
 ### 💡 Özellik İsteği
 
 **Yeni özellik önerisi için:**
-1. [Issues sayfasından](https://github.com/[username]/gymdesk/issues) "Feature Request" template'i seçin
+1. [Issues sayfasından](https://github.com/Wupani/gymdesk/issues) "Feature Request" template'i seçin
 2. Özelliği detaylı açıklayın
 3. Kullanım senaryoları ekleyin
 4. Mockup/wireframe eklerseniz süper! 🎨
@@ -929,10 +929,11 @@ npm run electron
 
 | Kanal | Amaç | Yanıt Süresi |
 |-------|------|--------------|
-| 🐛 [GitHub Issues](https://github.com/[username]/gymdesk/issues) | Hata bildirimi | 24-48 saat |
-| 💡 [Feature Requests](https://github.com/[username]/gymdesk/issues) | Özellik önerisi | 3-7 gün |
-| 💬 [Discussions](https://github.com/[username]/gymdesk/discussions) | Genel soru/cevap | 12-24 saat |
-| 📧 Email | support@gymdesk.com | 48 saat |
+| 🐛 [GitHub Issues](https://github.com/Wupani/gymdesk/issues) | Hata bildirimi | 24-48 saat |
+| 💡 [Feature Requests](https://github.com/Wupani/gymdesk/issues) | Özellik önerisi | 3-7 gün |
+| 💬 [Discussions](https://github.com/Wupani/gymdesk/discussions) | Genel soru/cevap | 12-24 saat |
+| 📧 Email | wupaniyazilim@gmail.com | 48 saat |
+| 🌐 Portfolio | [Limnio Website](https://wupani.github.io/limnio-website/) | - |
 
 ---
 
@@ -962,26 +963,39 @@ Bu projeyi mümkün kılan harika açık kaynak topluluğuna ve teknolojilere te
 
 Bu proje aşağıdaki kişilerin katkılarıyla geliştirilmiştir:
 
-<!-- Buraya GitHub contributors eklenecek -->
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/80x80?text=👤" width="80px;" alt=""/>
-      <br />
-      <sub><b>Ana Geliştirici</b></sub>
-      <br />
-      <a href="https://github.com/[username]">🚀 Project Lead</a>
+      <a href="https://wupani.github.io/limnio-website/">
+        <img src="https://github.com/Wupani.png" width="80px;" alt="Emre Akyol"/>
+        <br />
+        <sub><b>Emre Akyol (Wupani)</b></sub>
+        <br />
+        🚀 Project Lead & Full-Stack Developer
+        <br />
+        <small>💻 <a href="https://wupani.github.io/limnio-website/">Limnio Portfolio</a></small>
+      </a>
     </td>
     <!-- Daha fazla contributor eklenecek -->
   </tr>
 </table>
 
+> **Limnio ile tanışın:** [Emre Akyol](https://wupani.github.io/limnio-website/) tarafından geliştirilen bu proje, **Limnio** markası altında modern yazılım çözümleri sunan portföyün bir parçasıdır. Daha fazla proje için [Limnio Portfolio](https://wupani.github.io/limnio-website/) ziyaret edin!
+
 ### 📈 Proje İstatistikleri
 
-[![GitHub stars](https://img.shields.io/github/stars/[username]/gymdesk?style=social)](https://github.com/[username]/gymdesk/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/[username]/gymdesk?style=social)](https://github.com/[username]/gymdesk/network)
-[![GitHub issues](https://img.shields.io/github/issues/[username]/gymdesk)](https://github.com/[username]/gymdesk/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/[username]/gymdesk)](https://github.com/[username]/gymdesk/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/Wupani/gymdesk?style=social)](https://github.com/Wupani/gymdesk/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Wupani/gymdesk?style=social)](https://github.com/Wupani/gymdesk/network)
+[![GitHub issues](https://img.shields.io/github/issues/Wupani/gymdesk)](https://github.com/Wupani/gymdesk/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Wupani/gymdesk)](https://github.com/Wupani/gymdesk/pulls)
+
+#### 👨‍💻 Geliştirici Hakkında
+**Emre Akyol** - Limnio markası altında modern yazılım çözümleri geliştiren full-stack developer. 3+ yıllık deneyimi ile mobil uygulamalar, web platformları ve desktop uygulamaları konusunda uzman.
+
+📍 **Konum:** Türkiye, Denizli  
+🌐 **Portfolio:** [Limnio - wupani.github.io](https://wupani.github.io/limnio-website/)  
+📧 **İletişim:** wupaniyazilim@gmail.com  
+💼 **Durum:** Yeni projeler için açık
 
 ### 🌟 Destek Verme Yolları
 
@@ -1001,10 +1015,10 @@ Projeyi desteklemek için:
 
 **GymDesk ile modern spor salonu yönetimine geçiş yapın** 🚀
 
-[⬇️ Download](https://github.com/[username]/gymdesk/releases) • [📖 Docs](https://github.com/[username]/gymdesk/wiki) • [🐛 Issues](https://github.com/[username]/gymdesk/issues) • [💬 Discussions](https://github.com/[username]/gymdesk/discussions)
+[⬇️ Download](https://github.com/Wupani/gymdesk/releases) • [📖 Docs](https://github.com/Wupani/gymdesk/wiki) • [🐛 Issues](https://github.com/Wupani/gymdesk/issues) • [💬 Discussions](https://github.com/Wupani/gymdesk/discussions)
 
 ---
 
-**Made with ❤️ by [GymDesk Team](https://github.com/[username]/) in Turkey 🇹🇷**
+**Made with ❤️ by [Emre Akyol (Limnio)](https://wupani.github.io/limnio-website/) in Turkey 🇹🇷**
 
 </div> 
