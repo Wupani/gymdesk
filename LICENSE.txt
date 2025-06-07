@@ -1,5 +1,5 @@
 GymDesk - Spor Salonu Yönetim Sistemi
-Copyright (c) 2024 GymDesk
+Copyright (c) 2025 GymDesk
 
 Bu yazılım ve ilgili belgeler ("Yazılım") yalnızca lisans sahibi tarafından kullanılmak üzere sağlanmıştır.
 
