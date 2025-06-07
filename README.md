@@ -376,7 +376,7 @@ gymdesk/
 │   │   └── 📁 png/            # PNG ikonlar (tüm boyutlar)
 │   ├── 🖼️ installer-sidebar.bmp # Windows installer görseli
 │   └── 🖼️ ChatGPT Image 7...png # Logo ve brand görselleri
-├── 📁 dist/                   # Build çıktıları
+├── 📁 dist/                   # Build çıktıları (npm run dist sonrası oluşur)
 │   ├── 📁 macOS-Release/      # macOS Dağıtım
 │   │   ├── 📦 GymDesk.app     # macOS uygulama paketi (464MB)
 │   │   │   ├── 🍎 Apple Silicon optimized  # M1/M2/M3 native support
