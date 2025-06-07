@@ -218,18 +218,21 @@ chmod +x GymDesk-1.0.0.AppImage
 
 **Dosya:** `GymDesk Setup 1.0.0-Universal.exe (227 MB)`
 
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?style=for-the-badge&logo=virustotal&logoColor=white)](https://virustotal.com)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/7ed59e3dae1cc19d5f8d8e913a88991b3bf9263f54982b7745d23c06f1a81b5d)
 [![Hybrid Analysis](https://img.shields.io/badge/Hybrid%20Analysis-Clean-brightgreen?style=for-the-badge&logo=security&logoColor=white)](https://hybrid-analysis.com)
 [![Metadefender](https://img.shields.io/badge/Metadefender-Clean-brightgreen?style=for-the-badge&logo=opsgenie&logoColor=white)](https://metadefender.opswat.com)
 
 ```powershell
 # Dosya Hash Değerleri (Doğrulama için):
-SHA256: [build sırasında oluşturulacak]
+SHA256: 7ED59E3DAE1CC19D5F8D8E913A88991B3BF9263F54982B7745D23C06F1A81B5D
 MD5:    [build sırasında oluşturulacak]
 SHA1:   [build sırasında oluşturulacak]
 
 # PowerShell ile hash doğrulama:
 Get-FileHash "GymDesk Setup 1.0.0-Universal.exe" -Algorithm SHA256
+
+# Doğrulama sonucu bu değere eşit olmalı:
+# 7ED59E3DAE1CC19D5F8D8E913A88991B3BF9263F54982B7745D23C06F1A81B5D
 ```
 
 **🔍 Tarama Sonuçları:**
