@@ -108,7 +108,8 @@
 
 *Modern pagination sistemi ile optimize edilmiş veri görüntüleme*
 
-### 📏 Sayfalama ile Vücut Ölçümleri
+###  🏋️ Antrenman Programları
+📏 Sayfalama ile Vücut Ölçümleri
 <img src="Ekran Görüntüleri/Ekran Resmi 2025-06-08 00.52.39.png" alt="Payment Tracking" width="600"/>
 
 *Detaylı ödeme geçmişi ve mali raporlama*
@@ -118,12 +119,13 @@
 
 *Kişiselleştirilmiş antrenman planları ve egzersiz kütüphanesi*
 
-### 📈 İlerleme Takibi
+###  🏋️ Antrenman Programları
+
 <img src="Ekran Görüntüleri/Ekran Resmi 2025-06-08 00.52.55.png" alt="Progress Tracking" width="600"/>
 
 *Vücut ölçümlerinde gelişim analizi ve trend görüntüleme*
 
-### 📊 Detaylı Raporlama
+###  📏 Sayfalama ile Vücut Ölçümleri 
 <img src="Ekran Görüntüleri/Ekran Resmi 2025-06-08 00.53.08.png" alt="Reports" width="600"/>
 
 *Chart.js ile güçlendirilmiş interaktif grafikler ve analitik*
