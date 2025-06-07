@@ -18,16 +18,16 @@
 
 ## 📖 İçindekiler
 
-- [Özellikler](#-özellikler)
-- [Ekran Görüntüleri](#-ekran-görüntüleri)
-- [Kurulum](#-kurulum)
-- [Kullanım](#-kullanım)
-- [Geliştirme](#️-geliştirme)
-- [Teknoloji Stack](#-teknoloji-stack)
-- [Build ve Dağıtım](#-build-ve-dağıtım)
-- [Katkıda Bulunma](#-katkıda-bulunma)
-- [Lisans](#-lisans)
-- [Destek](#-destek)
+- [Özellikler](#özellikler)
+- [Ekran Görüntüleri](#ekran-görüntüleri)
+- [Kurulum](#kurulum)
+- [Kullanım](#kullanım)
+- [Geliştirme](#geliştirme)
+- [Teknoloji Stack](#teknoloji-stack)
+- [Build ve Dağıtım](#build-ve-dağıtım)
+- [Katkıda Bulunma](#katkıda-bulunma)
+- [Lisans](#lisans)
+- [Destek](#destek)
 
 ---
 
