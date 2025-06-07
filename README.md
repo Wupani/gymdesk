@@ -87,19 +87,44 @@
 ## 🖼️ Ekran Görüntüleri
 
 ### 🌟 Animasyonlu Giriş Ekranı
-Profesyonel gradient arkaplan, parçacık efektleri ve yükleme animasyonu
+<img src="Ekran Görüntüleri/Ekran Resmi 2025-06-08 00.50.44.png" alt="Splash Screen" width="600"/>
+
+*Profesyonel gradient arkaplan, parçacık efektleri ve yükleme animasyonu*
 
 ### 📊 Modern Dashboard
-Gerçek zamanlı istatistikler, hızlı erişim butonları ve KPI gösterimi
+<img src="Ekran Görüntüleri/Ekran Resmi 2025-06-08 00.51.49.png" alt="Dashboard" width="600"/>
+
+*Gerçek zamanlı istatistikler, hızlı erişim butonları ve KPI gösterimi*
 
 ### 👥 Kapsamlı Üye Yönetimi
-Gelişmiş arama, filtreleme ve detaylı profil yönetimi
+<img src="Ekran Görüntüleri/Ekran Resmi 2025-06-08 00.52.11.png" alt="Member Management" width="600"/>
+
+*Gelişmiş arama, filtreleme ve detaylı profil yönetimi*
 
 ### 📏 Sayfalama ile Vücut Ölçümleri
-Modern pagination sistemi ile optimize edilmiş veri görüntüleme
+<img src="Ekran Görüntüleri/Ekran Resmi 2025-06-08 00.52.23.png" alt="Body Measurements" width="600"/>
 
-### 📈 İnteraktif Raporlama
-Chart.js ile güçlendirilmiş grafik analizi ve trend görüntüleme
+*Modern pagination sistemi ile optimize edilmiş veri görüntüleme*
+
+### 💰 Ödeme Takip Sistemi
+<img src="Ekran Görüntüleri/Ekran Resmi 2025-06-08 00.52.39.png" alt="Payment Tracking" width="600"/>
+
+*Detaylı ödeme geçmişi ve mali raporlama*
+
+### 🏋️ Antrenman Programları
+<img src="Ekran Görüntüleri/Ekran Resmi 2025-06-08 00.52.46.png" alt="Workout Plans" width="600"/>
+
+*Kişiselleştirilmiş antrenman planları ve egzersiz kütüphanesi*
+
+### 📈 İlerleme Takibi
+<img src="Ekran Görüntüleri/Ekran Resmi 2025-06-08 00.52.55.png" alt="Progress Tracking" width="600"/>
+
+*Vücut ölçümlerinde gelişim analizi ve trend görüntüleme*
+
+### 📊 Detaylı Raporlama
+<img src="Ekran Görüntüleri/Ekran Resmi 2025-06-08 00.53.08.png" alt="Reports" width="600"/>
+
+*Chart.js ile güçlendirilmiş interaktif grafikler ve analitik*
 
 ---
 
