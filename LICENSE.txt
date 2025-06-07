@@ -1,0 +1,17 @@
+GymDesk - Spor Salonu Yönetim Sistemi
+Copyright (c) 2024 GymDesk
+
+Bu yazılım ve ilgili belgeler ("Yazılım") yalnızca lisans sahibi tarafından kullanılmak üzere sağlanmıştır.
+
+KULLANIM KOŞULLARI:
+
+1. Bu yazılım ticari amaçlarla kullanılabilir.
+2. Yazılımın kaynak kodunu değiştirmek ve dağıtmak yasaktır.
+3. Yazılımın tersine mühendisliği yapılması yasaktır.
+4. Bu yazılım "OLDUĞU GİBİ" sağlanır ve hiçbir garanti verilmez.
+
+SORUMLULUK REDDİ:
+
+Bu yazılımın kullanımından doğabilecek herhangi bir zarar veya kayıptan yazılım geliştiricileri sorumlu tutulamaz.
+
+İletişim: support@gymdesk.com 
