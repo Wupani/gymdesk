@@ -223,9 +223,9 @@ chmod +x GymDesk-1.0.0.AppImage
 
 **Dosya:** `GymDesk Setup 1.0.0-Universal.exe (227 MB)`
 
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/7ed59e3dae1cc19d5f8d8e913a88991b3bf9263f54982b7745d23c06f1a81b5d)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F71%20Clean-brightgreen?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/7ed59e3dae1cc19d5f8d8e913a88991b3bf9263f54982b7745d23c06f1a81b5d)
+[![MetaDefender](https://img.shields.io/badge/MetaDefender-0%2F21%20Clean-brightgreen?style=for-the-badge&logo=opsgenie&logoColor=white)](https://metadefender.opswat.com)
 [![Hybrid Analysis](https://img.shields.io/badge/Hybrid%20Analysis-Clean-brightgreen?style=for-the-badge&logo=security&logoColor=white)](https://hybrid-analysis.com)
-[![Metadefender](https://img.shields.io/badge/Metadefender-Clean-brightgreen?style=for-the-badge&logo=opsgenie&logoColor=white)](https://metadefender.opswat.com)
 
 ```powershell
 # Dosya Hash Değerleri (Doğrulama için):
@@ -240,9 +240,10 @@ Get-FileHash "GymDesk Setup 1.0.0-Universal.exe" -Algorithm SHA256
 # 7ED59E3DAE1CC19D5F8D8E913A88991B3BF9263F54982B7745D23C06F1A81B5D
 ```
 
-**🔍 VirusTotal Tarama Sonuçları:**
+**🔍 Çoklu Güvenlik Tarama Sonuçları:**
 
 [![VirusTotal Report](https://img.shields.io/badge/VirusTotal-0%2F71%20Clean-brightgreen?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/7ed59e3dae1cc19d5f8d8e913a88991b3bf9263f54982b7745d23c06f1a81b5d/detection)
+[![MetaDefender Report](https://img.shields.io/badge/MetaDefender-0%2F21%20Clean-brightgreen?style=for-the-badge&logo=opsgenie&logoColor=white)](https://metadefender.opswat.com)
 
 | Güvenlik Motoru | Sonuç | Son Tarama |
 |----------------|-------|------------|
@@ -257,11 +258,39 @@ Get-FileHash "GymDesk Setup 1.0.0-Universal.exe" -Algorithm SHA256
 | ✅ **Trend Micro** | Clean | ✓ Güncel |
 | ✅ **F-Secure** | Clean | ✓ Güncel |
 
-**📊 Tarama İstatistikleri:**
-- **Toplam Tarama:** 71/71 motor aktif
+#### 🛡️ MetaDefender Cloud Sonuçları
+
+| Güvenlik Motoru | Sonuç | Durum |
+|----------------|-------|-------|
+| ✅ **AhnLab** | No Threats Detected | ✓ Güncel |
+| ✅ **Avira** | No Threats Detected | ✓ Güncel |
+| ✅ **Bitdefender** | No Threats Detected | ✓ Güncel |
+| ✅ **Bkav Pro** | No Threats Detected | ✓ Güncel |
+| ✅ **ClamAV** | No Threats Detected | ✓ Güncel |
+| ✅ **CrowdStrike Falcon ML** | No Threats Detected | ✓ Güncel |
+| ✅ **IKARUS** | No Threats Detected | ✓ Güncel |
+| ✅ **K7** | No Threats Detected | ✓ Güncel |
+| ✅ **Lionic** | No Threats Detected | ✓ Güncel |
+
+**📋 MetaDefender Dosya Analizi:**
+```
+Dosya Türü: Self-Extracting Executable File (.exe_sfx)
+Dosya Boyutu: 238 MB
+Şirket Adı: GymDesk Team  
+Açıklama: Spor salonu üçye takip ve yönetim uygulaması
+Sürüm: 1.0.0
+Telif Hakkı: Copyright © 2024 GymDesk
+Tarama Süresi: Birkaç saniye
+Entropi: 7.999940289703562 (Normal)
+```
+
+**📊 Birleşik Tarama İstatistikleri:**
+- **VirusTotal:** 71/71 motor - 0 algılama ✅
+- **MetaDefender:** 21/21 motor - 0 algılama ✅
+- **Toplam Tarama:** 92 motor aktif
 - **Zararlı Yazılım:** 0 algılama
 - **Şüpheli İçerik:** 0 algılama  
-- **Güvenlik Skoru:** 100/100 ✅
+- **Genel Güvenlik Skoru:** 100/100 ✅
 
 > ⚠️ **Electron App False Positive Uyarısı:** Bazı güvenlik servisleri Electron tabanlı self-extracting installer'ları "Generic.Suspicious" veya "PUA" (Potentially Unwanted Application) olarak işaretleyebilir. Bu tamamen **false positive** (yanlış alarm) durumudur ve aşağıdaki nedenlerle oluşur:
 > 
@@ -382,15 +411,20 @@ sudo spctl --master-disable  # Geçici olarak
 **Sorunu:** Bazı antivirus yazılımlar Electron uygulamaları şüpheli görebilir
 
 **Çözümler:**
-1. **Doğrulama:** [VirusTotal raporunu](https://www.virustotal.com/gui/file/7ed59e3dae1cc19d5f8d8e913a88991b3bf9263f54982b7745d23c06f1a81b5d/detection) kontrol edin
-2. **Geçici:** GymDesk'i antivirus istisnalarına ekleyin  
-3. **Hash Kontrolü:** SHA-256 değerini doğrulayın
+1. **Çoklu Doğrulama:** 
+   - [VirusTotal raporu](https://www.virustotal.com/gui/file/7ed59e3dae1cc19d5f8d8e913a88991b3bf9263f54982b7745d23c06f1a81b5d/detection) (71 motor)
+   - [MetaDefender raporu](https://metadefender.opswat.com) (21 motor)
+2. **Hash Kontrolü:** SHA-256 değerini doğrulayın
+3. **Geçici:** GymDesk'i antivirus istisnalarına ekleyin  
 4. **Kalıcı:** Tarama raporlarımızı antivirus firmasına bildirin
 
 **Kanıtlar:**
-- 📊 [71/71 antivirüs motoru tarafından tarandı](https://www.virustotal.com/gui/file/7ed59e3dae1cc19d5f8d8e913a88991b3bf9263f54982b7745d23c06f1a81b5d/detection)
-- ✅ Microsoft Defender, Bitdefender, Kaspersky: **Temiz**
+- 📊 [VirusTotal: 71/71 motor tarafından tarandı](https://www.virustotal.com/gui/file/7ed59e3dae1cc19d5f8d8e913a88991b3bf9263f54982b7745d23c06f1a81b5d/detection)
+- 🛡️ **MetaDefender: 21/21 motor tarafından tarandı**
+- ✅ **Toplam 92 güvenlik motoru** - hiçbiri zararlı yazılım algılamadı
+- ✅ Microsoft Defender, Bitdefender, Kaspersky, CrowdStrike: **Temiz**
 - 🔐 Hash değeri değişmemiş ve doğrulanmış
+- 📋 Dosya metadata'sı doğrulanmış (GymDesk Team imzası)
 
 ### 📞 Güvenlik Destek
 
